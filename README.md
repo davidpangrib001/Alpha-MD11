@@ -35,7 +35,7 @@
 
 ## Information
 > Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
-> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
+> Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara.
 > Berdoa Dulu Biar Gak Ke Banned Sama Heroku 🗿🙏🏻
 
 
