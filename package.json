@@ -1,6 +1,6 @@
 {
   "name": "One Botz",
-  "version": "1.0.2 Q",
+  "version": "1.0.3 S",
   "description": "Simple WhatsApp Bot",
   "main": "zeeone.js",
   "license": "MIT",
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "David",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
