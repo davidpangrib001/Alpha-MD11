@@ -22,7 +22,7 @@ exports.replyImg = (prefix, command) => {
 }
 
 exports.wrongFormat = (prefix) => {
-    return `Format Yang Kamu Kirim Salah, Coba Periksa Di ${prefix}allmenu\n_One Botz-MD*_`
+    return `Format Yang Kamu Kirim Salah, Coba Periksa Di ${prefix}allmenu\n_*One Botz-MD*_`
 }
 
 exports.emptyMess = () => {
@@ -861,15 +861,15 @@ exports.leave = () =>{
 Goodbye`
 }
 exports.source = () =>{
-return`*------「 SOURCE CODE 』──⬣ ------*
+return`*──⬣──『 SOURCE CODE 』──⬣──*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://youtube.com/playlist?list=PLFCglBzFPHG7vSQaa9S3P8yfla_d9w-2-
+Recode : By Me 🐦
 `
 }
 exports.tos = (ownernomer) => {
     return `
-*-------「 DONATE 』──⬣ -------*
+*-------『 DONATE 』──⬣ -------*
 
 Hai kak ☺️ 
 Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
